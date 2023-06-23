@@ -1,0 +1,4 @@
+[submodule "controlp5"]
+	path = controlp5
+	url = https://github.com/sojamo/controlp5.git
+	branch = dev-2.2.7
